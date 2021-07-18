@@ -176,6 +176,8 @@ h1 span {
 #solution h4 {
     font-family: 'Oswald', sans-serif;
     font-size: 20px;
+    line-height: 25px;
+    padding: 0 300px;
 }
 
 
