@@ -64,26 +64,32 @@ h1 span {
 }
 
 #frustrated {
-    background: url('../img/frustrated-woman.png');
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: yellow;
     box-sizing: border-box;
-    height: 1000px;
-    text-align: center;
+    height: 900px;
+    padding-top: 20px;
+    
+}
+
+#frustrated img {
+    display: block;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 #frustrated  h1{
-    color:white; 
+    color: black; 
     font-family: 'ccbiffbamboomoutline', sans-serif;
-    font-size: 35px;
-    margin: 0 auto;
-    padding-top: 30px;
+    font-size: 55px;
+    text-align: center;
     
 }
 
 #frustrated h1 span {
-    font-size: 50px;
-    color: yellow;
+    color: #d63434;
+    font-size: 70px;
 }
 #scared {
     box-sizing: border-box;
